@@ -1,0 +1,20 @@
+d:\my documents\visual studio 2010\Projects\NumberToWord\NumberToWord\bin\Debug\NumberToWord.exe.config
+d:\my documents\visual studio 2010\Projects\NumberToWord\NumberToWord\bin\Debug\NumberToWord.exe
+d:\my documents\visual studio 2010\Projects\NumberToWord\NumberToWord\bin\Debug\NumberToWord.pdb
+d:\my documents\visual studio 2010\Projects\NumberToWord\NumberToWord\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\my documents\visual studio 2010\Projects\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.Form1.resources
+d:\my documents\visual studio 2010\Projects\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.Properties.Resources.resources
+d:\my documents\visual studio 2010\Projects\NumberToWord\NumberToWord\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\my documents\visual studio 2010\Projects\NumberToWord\NumberToWord\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\my documents\visual studio 2010\Projects\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.exe.licenses
+d:\my documents\visual studio 2010\Projects\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.exe
+d:\my documents\visual studio 2010\Projects\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.pdb
+E:\Hegazy2022\NumberToWord\NumberToWord\bin\Debug\NumberToWord.exe.config
+E:\Hegazy2022\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.exe
+E:\Hegazy2022\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.pdb
+E:\Hegazy2022\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.csprojResolveAssemblyReference.cache
+E:\Hegazy2022\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.Form1.resources
+E:\Hegazy2022\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.Properties.Resources.resources
+E:\Hegazy2022\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.csproj.GenerateResource.Cache
+E:\Hegazy2022\NumberToWord\NumberToWord\bin\Debug\NumberToWord.exe
+E:\Hegazy2022\NumberToWord\NumberToWord\bin\Debug\NumberToWord.pdb

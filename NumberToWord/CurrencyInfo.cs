@@ -4,7 +4,7 @@ namespace NumberToWord
 {
     public class CurrencyInfo
     {
-        public enum Currencies { Syria = 0, UAE, SaudiArabia, Tunisia, Gold };
+        public enum Currencies { Syria = 0, UAE, SaudiArabia, Tunisia, Gold ,Egypt};
 
         #region Constructors
 
@@ -108,6 +108,25 @@ namespace NumberToWord
                     Arabic2CurrencyPartName = "ملجرامان";
                     Arabic310CurrencyPartName = "ملجرامات";
                     Arabic1199CurrencyPartName = "ملجراماً";
+                    PartPrecision = 2;
+                    IsCurrencyPartNameFeminine = false;
+                    break;
+                case Currencies.Egypt:
+                    CurrencyID = 5;
+                    CurrencyCode = "EGP";
+                    IsCurrencyNameFeminine = false;
+                    EnglishCurrencyName = "Egyption Pound";
+                    EnglishPluralCurrencyName = "Egyption Pounds";
+                    EnglishCurrencyPartName = "Piaster";
+                    EnglishPluralCurrencyPartName = "Piasteres";
+                    Arabic1CurrencyName = "جنية مصري";
+                    Arabic2CurrencyName = "جنيهان مصري";
+                    Arabic310CurrencyName = "جنيهات مصرية";
+                    Arabic1199CurrencyName = "جنيهاً مصرياً";
+                    Arabic1CurrencyPartName = "قرش";
+                    Arabic2CurrencyPartName = "قرشان";
+                    Arabic310CurrencyPartName = "قروش";
+                    Arabic1199CurrencyPartName = "قرشاً";
                     PartPrecision = 2;
                     IsCurrencyPartNameFeminine = false;
                     break;

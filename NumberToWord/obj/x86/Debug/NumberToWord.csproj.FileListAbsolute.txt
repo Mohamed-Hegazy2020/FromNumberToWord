@@ -18,3 +18,24 @@ E:\Hegazy2022\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.Properties.Re
 E:\Hegazy2022\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.csproj.GenerateResource.Cache
 E:\Hegazy2022\NumberToWord\NumberToWord\bin\Debug\NumberToWord.exe
 E:\Hegazy2022\NumberToWord\NumberToWord\bin\Debug\NumberToWord.pdb
+F:\sys programs\Traning progects\My Example Programs\NumberToWord\NumberToWord\bin\Debug\NumberToWord.exe.config
+F:\sys programs\Traning progects\My Example Programs\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.exe
+F:\sys programs\Traning progects\My Example Programs\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.pdb
+F:\sys programs\Traning progects\My Example Programs\NumberToWord\NumberToWord\bin\Debug\NumberToWord.exe
+F:\sys programs\Traning progects\My Example Programs\NumberToWord\NumberToWord\bin\Debug\NumberToWord.pdb
+F:\sys programs\Traning progects\My Example Programs\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.csprojResolveAssemblyReference.cache
+F:\sys programs\Traning progects\My Example Programs\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.Form1.resources
+F:\sys programs\Traning progects\My Example Programs\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.Properties.Resources.resources
+F:\sys programs\Traning progects\My Example Programs\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.csproj.GenerateResource.Cache
+F:\sys programs\Traning progects\My Example Programs\NumberToWord\NumberToWord\bin\Debug\ConvertNumberToWord.dll
+F:\Hegazy2022\Traning Applications\MyApplications\NumberToWord\NumberToWord\bin\Debug\NumberToWord.exe.config
+F:\Hegazy2022\Traning Applications\MyApplications\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.exe
+F:\Hegazy2022\Traning Applications\MyApplications\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.pdb
+F:\Hegazy2022\Traning Applications\MyApplications\NumberToWord\NumberToWord\bin\Debug\NumberToWord.exe
+F:\Hegazy2022\Traning Applications\MyApplications\NumberToWord\NumberToWord\bin\Debug\NumberToWord.pdb
+F:\Hegazy2022\Traning Applications\MyApplications\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.Form1.resources
+F:\Hegazy2022\Traning Applications\MyApplications\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.Properties.Resources.resources
+F:\Hegazy2022\Traning Applications\MyApplications\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.csproj.GenerateResource.Cache
+F:\Hegazy2022\Traning Applications\MyApplications\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.csproj.AssemblyReference.cache
+F:\Hegazy2022\Traning Applications\MyApplications\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.csproj.CoreCompileInputs.cache
+F:\Hegazy2022\Traning Applications\MyApplications\NumberToWord\NumberToWord\obj\x86\Debug\NumberToWord.csproj.CopyComplete

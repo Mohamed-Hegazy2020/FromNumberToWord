@@ -62,7 +62,7 @@ namespace NumberToWord
         /// <param name="currency">Currency to use</param>
         public ToWord(Decimal number, CurrencyInfo currency)
         {
-            InitializeClass(number, currency, String.Empty, "only.", "فقط", "لا غير.");
+            InitializeClass(number, currency, String.Empty, "only.", " فقط", "لا غير .");
         }
 
         /// <summary>
@@ -472,7 +472,7 @@ namespace NumberToWord
             }
 
             String formattedNumber = String.Empty;
-            formattedNumber += (ArabicPrefixText != String.Empty) ? String.Format("{0} ", ArabicPrefixText) : String.Empty;
+            //formattedNumber += (ArabicPrefixText != String.Empty) ? String.Format("{0} ", ArabicPrefixText) : String.Empty;
             formattedNumber += (retVal != String.Empty) ? retVal : String.Empty;
             if (_intergerValue != 0)
             { // here we add currency name depending on _intergerValue : 1 ,2 , 3--->10 , 11--->99
@@ -521,7 +521,9 @@ namespace NumberToWord
                                 if (remaining100 >= 11 && remaining100 <= 99)
                                     formattedNumber += Currency.Arabic1199CurrencyPartName;
             }
+            formattedNumber += (ArabicPrefixText != String.Empty) ? String.Format("{0} ", ArabicPrefixText) : String.Empty;
             formattedNumber += (ArabicSuffixText != String.Empty) ? String.Format(" {0}", ArabicSuffixText) : String.Empty;
+            
 
             return formattedNumber;
         }
